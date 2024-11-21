@@ -1183,7 +1183,7 @@ function getBenefitsByPackageType(packageType) {
         
         // Call Functionality
         function initiateCall() {
-            window.location.href = 'tel:+1234567890';
+            window.location.href = 'tel:6269489526';
         }
         
         function showSupport() {
