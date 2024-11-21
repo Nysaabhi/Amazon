@@ -833,7 +833,7 @@ body > h1:first-of-type:not(.heading) {
                 <span>Subscription</span>
             </div>
             <div class="nav-item" data-page="call">
-                <a href="tel:9111478356">
+                <a href="tel:9669181789">
                     <i class="fas fa-phone"></i>
                 </a> 
                 <span>Call</span>
@@ -1183,7 +1183,7 @@ function getBenefitsByPackageType(packageType) {
         
         // Call Functionality
         function initiateCall() {
-            window.location.href = 'tel:6269489526';
+            window.location.href = 'tel:9669181789';
         }
         
         function showSupport() {
